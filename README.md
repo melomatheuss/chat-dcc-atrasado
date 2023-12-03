@@ -8,7 +8,7 @@ Este projeto é um simples chat web desenvolvido com Socket.IO, Next.js 13 e Typ
 
 Certifique-se de ter o Node.js e npm instalados em sua máquina.
 
-git clone https://github.com/seu-usuario/chatDCC.git
+git clone https://github.com/melomatheuss/chat-dcc-atrasado.git
 cd chatDCC
 
 ## EXECUTE O COMADO:
